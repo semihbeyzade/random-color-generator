@@ -17,3 +17,17 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+p{
+    font-size: 2em;
+}
+
+a{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: black;
+    padding: 2em;
+    text-transform: uppercase;
+    user-select: none;
+    color: white;
+}
